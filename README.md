@@ -1,6 +1,5 @@
 # 🎟️ Real-Time Event Ticketing System (Backend)
 
-This repository contains the backend implementation of a **Real-Time Event Ticketing System** using **Java**, based on the **Producer-Consumer pattern** and **Object-Oriented Programming (OOP)** principles. The system simulates ticket vendors (producers) releasing tickets and customers (consumers) purchasing them concurrently in a multi-threaded environment.
 ---
 
 ## 📌 Project Overview
