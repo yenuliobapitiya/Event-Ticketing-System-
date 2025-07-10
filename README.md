@@ -1,6 +1,5 @@
 # 🎟️ Real-Time Event Ticketing System (Backend)
 
----
 
 ## 📌 Project Overview
 
