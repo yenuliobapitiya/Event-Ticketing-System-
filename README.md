@@ -12,7 +12,7 @@
   - Logging and error handling
   - Configuration management
 
----
+
 
 ## 🛠️ Features
 
@@ -22,5 +22,3 @@
 - ⚙️ Configurable system parameters (total tickets, release/retrieval rate, max capacity)
 - 🧾 Console and file logging for system activities
 - 🚨 Exception handling with meaningful messages
-
----
